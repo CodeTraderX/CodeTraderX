@@ -1,14 +1,15 @@
-### Hi there! 👋  
+## 👋 Hey there! Welcome to my profile!  
 
-- 🔭 I’m currently working on **Algorithmic Trading strategies and Software Development projects**  
-- 🌱 I’m currently learning **Data Structures & Algorithms, AI for Trading, and Advanced Python**  
-- 👯 I’m looking to collaborate on **Software Engineering projects, trading algorithms, and data analysis tools**  
-- 🤔 I’m looking for help with **optimizing trading strategies and learning high-frequency trading concepts and backtesting**  
-- 💬 Ask me about **Python, Java, C++, MySQL, and anything related to algorithmic trading!**    
+🔹 **Currently Working On:** Algorithmic Trading strategies & Software Development projects 🚀  
+🔹 **Currently Learning:** Data Structures & Algorithms, AI for Trading, and Advanced Python 📈  
+🔹 **Looking to Collaborate On:** Software Engineering, Trading Algorithms, and Data Analysis Tools 🤝  
+🔹 **Seeking Help With:** Optimizing trading strategies, High-Frequency Trading (HFT), and Backtesting techniques 📊  
 
-### 🚀 Tech Stack:  
-**Languages:** Python | Java | C++ | SQL  
-**Tools & Frameworks:** Linux | MySQL | NumPy | Pandas | Matplotlib  
-**Currently Exploring:** AI in Trading | High-Frequency Trading | Backend Development  
+### 🚀 **Tech Stack:**  
+- **Languages:** Python | Java | C++ | SQL  
+- **Tools & Frameworks:** Linux | MySQL | NumPy | Pandas | Matplotlib  
+- **Currently Exploring:** AI in Trading | High-Frequency Trading | Backend Development  
 
-Let's connect and build something awesome! 🚀
+💬 **Ask me about** Python, Java, C++, MySQL, and anything related to **Algorithmic Trading!**  
+
+📢 **Let’s connect and build something amazing!** 🚀
